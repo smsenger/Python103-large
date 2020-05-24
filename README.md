@@ -1,1 +1,1 @@
-This repository contains less complex exercises in python.
+This repository contains complex exercises in python.
